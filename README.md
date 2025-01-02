@@ -46,7 +46,7 @@ Data Sources: (Specify the source, e.g., sample datasets, Ola ride data, or hypo
 
 ## How to Use
 1. Download: Clone or download the repository.
-2. Open: Open the .pbix file in Power BI Desktop.
+2. Open: Open the https://github.com/abhishek130702/Ola-Dashboard/blob/main/ola%20dashboard.pbix file in Power BI Desktop.
 3. Explore: Use filters and interact with the dashboard to explore insights.
 
 ## Potential Enhancements
